@@ -33,7 +33,7 @@ Nostrils may be detect as an eye on  webcam.
 # Future work
 Include more features to a neural network, such as nodding.
 
-Further, discuss whether the cause of fatigue driving is related to the road section and t
+Further, discuss whether the cause of fatigue driving is related to the road section and time.
 
 
 # References
