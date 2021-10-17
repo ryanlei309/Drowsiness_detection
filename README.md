@@ -3,9 +3,9 @@ Driving under drowsy condition is one of the main reason for car accident. Besid
 
 Meanwhile, during the pandemic, people work or study remotely more and more frequently. This computer vision can help people to judge whether they are work or study under a good condition.
 
-Please watch demo video.
 
 
+# Demo video
 https://user-images.githubusercontent.com/52303625/137620983-a12659d1-4374-4bd0-bd85-9791bbc9dbb3.mp4
 
 
@@ -48,7 +48,7 @@ https://data-flair.training/blogs/python-project-driver-drowsiness-detection-sys
 Datasets: https://www.kaggle.com/adinishad/driver-drowsiness-using-keras
 
 
-Poster
+# Poster
 ![image](https://user-images.githubusercontent.com/52303625/137621008-9b59b9d9-5239-45dd-a08b-555f2d6bc30b.png)
 
 
